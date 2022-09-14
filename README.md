@@ -8,7 +8,6 @@
 This app has one flashcard with a question and an answer behind it. When you tap the question or card, the answer shows.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
 
 <img src="https://user-images.githubusercontent.com/87050440/190055307-2bd387cc-c85e-4f36-b5a5-1673a0f50867.mov" width=200><br>
 
